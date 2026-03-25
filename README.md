@@ -2,8 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes student performance using Python and Pandas.
-It calculates average scores, identifies top performers, and visualizes data.
+This project is part of Task 1 at Spark Que Tech, where student performance is analyzed using Python and Pandas. It involves calculating average scores, identifying top performers, and visualizing data to gain meaningful insights.
 
 ---
 
